@@ -474,14 +474,14 @@ section .container .head {
     height: 0%;
     left: 0px;
     z-index: 3;
-    border-width: 0px 0px 160px 500px;
+    border-width: 0px 0px 160px 700px;
     border-color: white transparent;
     border-style: solid;
     transition: 0.3s;
 }
 
 .features .container .cards .card:hover .content::after {
-    border-width: 0px 500px 160px 0px;
+    border-width: 0px 700px 160px 0px;
 }
 
 .features .container .cards .card .content h2 {
