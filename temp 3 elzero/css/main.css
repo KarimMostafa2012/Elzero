@@ -1354,7 +1354,7 @@ section .container .head {
 .stats {
     z-index: 1;
     position: relative;
-    background-image: url(D:/temp%203%20elzero/images/stats.jpg);
+    background-image: url(https://raw.githubusercontent.com/KarimMostafa2012/Elzero/main/temp%203%20elzero/images/stats.jpg);
 }
 
 .stats .container h1 {
@@ -1446,7 +1446,7 @@ section .container .head {
     position: relative;
     background-size: contain;
     animation: backgroundImage 10s infinite linear;
-    background-image: url(/Temp%203%20elzero/Images/discount-background1.jpg);
+    background-image: url(https://github.com/KarimMostafa2012/Elzero/blob/main/temp%203%20elzero/images/discount-background1.jpg?raw=true);
 }
 
 .request .left {
@@ -2061,10 +2061,10 @@ footer .container .grid .photos img {
 
     0%,
     100% {
-        background-image: url(/Temp%203%20elzero/Images/discount-background1.jpg);
+        background-image: url(https://github.com/KarimMostafa2012/Elzero/blob/main/temp%203%20elzero/images/discount-background1.jpg?raw=true);
     }
 
     50% {
-        background-image: url(/Temp%203%20elzero/Images/discount-background2.jpg);
+        background-image: url(https://github.com/KarimMostafa2012/Elzero/blob/main/temp%203%20elzero/images/discount-background2.jpg?raw=true);
     }
 }
